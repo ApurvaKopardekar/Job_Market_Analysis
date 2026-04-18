@@ -1,55 +1,67 @@
-🚀 Job Market Analysis (Python + EDA Project)
-📌 Project Overview
+## 🚀 Job Market Analysis (Python + EDA Project)
+
+## 📌 Project Overview
+
 This project focuses on analyzing real-world job market data using Python and Exploratory Data Analysis (EDA) techniques. The goal is to clean, process, and visualize the dataset to uncover meaningful insights about:
 
-Job roles
-Salary trends
-Skills demand
-Industry patterns
+* Job roles
+
+* Salary trends
+  
+* Skills demand
+  
+* Industry patterns
+  
 This project simulates how data analysts work with messy datasets in real-world scenarios.
 
-🎯 Project Objectives
-🧹 Clean and preprocess raw job market data
+## 🎯 Project Objectives
 
-📊 Perform exploratory data analysis (EDA)
+* 🧹 Clean and preprocess raw job market data
 
-📈 Visualize trends and patterns
+* 📊 Perform exploratory data analysis (EDA)
 
-🔍 Extract insights about jobs, salaries, and skills
+* 📈 Visualize trends and patterns
 
-💡 Support data-driven decision making
+* 🔍 Extract insights about jobs, salaries, and skills
 
-🛠️ Tech Stack
-Programming Language: Python
+* 💡 Support data-driven decision making
+
+## 🛠️ Tech Stack
+
+* Programming Language: Python
+  
 Libraries Used:
 
-Pandas (Data Cleaning & Manipulation)
+* Pandas (Data Cleaning & Manipulation)
 
-NumPy (Numerical Operations)
+* NumPy (Numerical Operations)
 
-Matplotlib (Data Visualization)
+* Matplotlib (Data Visualization)
 
-Seaborn (Advanced Visualization)
+* Seaborn (Advanced Visualization)
 
-📂 Dataset Information
+## 📂 Dataset Information
+
 Source: Kaggle (Job Market Dataset)
+
 Contains fields like:
 
-Job Title
+* Job Title
 
-Company
+* Company
 
-Location
+* Location
 
-Salary
+* Salary
 
-Skills
+* Skills
 
-Industry
+* Industry
 
-Company Size
+* Company Size
 
-🔄 Project Workflow
+## 🔄 Project Workflow
+
 1️⃣ Data Cleaning
 
 Handling missing values Removing duplicates Standardizing columns Converting data types
@@ -66,33 +78,37 @@ Salary distribution Job roles frequency Top hiring companies Skills demand trend
 
 High-paying job roles Most in-demand skills Top industries hiring Job market trends
 
-📊 Key Insights
-💰 Certain job roles offer significantly higher salaries
+## 📊 Key Insights
 
-🧠 Skills like Python, SQL, and Data Analysis are highly in demand
+* 💰 Certain job roles offer significantly higher salaries
 
-🏢 Large companies dominate hiring
+* 🧠 Skills like Python, SQL, and Data Analysis are highly in demand
 
-🌍 Job opportunities vary by location
+* 🏢 Large companies dominate hiring
 
-📌 Future Improvements
-🤖 Apply Machine Learning for salary prediction
+* 🌍 Job opportunities vary by location
 
-🌐 Build an interactive dashboard (Power BI / Tableau)
+## 📌 Future Improvements
 
-📊 Add real-time job data scraping
+* 🤖 Apply Machine Learning for salary prediction
 
-🙌 Conclusion
+* 🌐 Build an interactive dashboard (Power BI / Tableau)
+
+* 📊 Add real-time job data scraping
+
+## 🙌 Conclusion
+
 This project demonstrates how raw and unstructured job market data can be transformed into meaningful insights using EDA techniques.It highlights the importance of data cleaning, visualization, and analysis in solving real-world problems and making informed decisions in the job market.
 
-👤 Author
+## 👤 Author
 Apurva Kopardekar
 
 📧 Email: apurva.kopardekar@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/apurva-kopardekar26
 
-⭐ Support
+## ⭐ Support
+
 If you found this project useful:
 
 ⭐ Star this repository
